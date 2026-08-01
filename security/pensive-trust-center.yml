@@ -1,0 +1,13 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://trust.pensive.com/
+url: https://trust.pensive.com/
+certifications:
+- SOC 2
+evidence:
+- source: https://trust.pensive.com/
+  keywords:
+  - soc 2
+  - soc2
+  - trust center
